@@ -1,5 +1,5 @@
-# CRY_DES
-implement DES encryption/decryption
+# CRYPTO
+
 
 
 --huynkhe141329--
